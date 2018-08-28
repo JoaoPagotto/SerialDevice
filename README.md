@@ -1,1 +1,1 @@
-# SerialDevice
+# SerialDevice based on QSerialPort
